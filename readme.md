@@ -28,6 +28,6 @@ Web과 App 개발과 신기술에 관심이 많습니다.
 <hr>
 <br>
 
-[CV](github.glowisn.io)
+[CV](https://glowisn.github.io/)
 
 [![glowisn's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowisn&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/glowisn)
