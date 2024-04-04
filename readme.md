@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=160&theme=cobalt&text=Glowisn's%20Github&fontAlignY=32&fontSize=52)
 
 반갑습니다. 개발자 정예찬입니다.
-Web과 App 개발과 신기술에 관심이 많습니다.
 
 ## My Tech stack
 
