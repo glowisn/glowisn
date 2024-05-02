@@ -12,7 +12,7 @@ Web과 App 개발과 신기술에 관심이 많습니다.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=FFFFFFF"/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=000000"/>
 
-### Cross-Platform Moblie App
+### Cross-Platform Mobile App
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=000000"/>
 
 ### DB / BE
