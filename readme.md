@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=160&theme=cobalt&text=Glowisn's%20Github&fontAlignY=32&fontSize=52)
 
 반갑습니다. 개발자 정예찬입니다.
-Web과 App 개발과 신기술에 관심이 많습니다.
 
 ## My Tech stack
 
@@ -28,7 +27,6 @@ Web과 App 개발과 신기술에 관심이 많습니다.
 <hr>
 <br>
 
-[Portofolio](https://www.notion.so/PORTOFOLIO-c3e497ca0b00441295cfa2fd8e921329?pvs=4)
-
+[CV](https://glowisn.github.io/)
 
 [![glowisn's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowisn&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/glowisn)
